@@ -1,0 +1,15 @@
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\bin\Debug\net6.0\Card-OOP-Assignment-YHK.exe
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\bin\Debug\net6.0\Card-OOP-Assignment-YHK.deps.json
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\bin\Debug\net6.0\Card-OOP-Assignment-YHK.runtimeconfig.json
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\bin\Debug\net6.0\Card-OOP-Assignment-YHK.dll
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\bin\Debug\net6.0\Card-OOP-Assignment-YHK.pdb
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\Card-OOP-Assignment-YHK.csproj.AssemblyReference.cache
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\Card-OOP-Assignment-YHK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\Card-OOP-Assignment-YHK.AssemblyInfoInputs.cache
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\Card-OOP-Assignment-YHK.AssemblyInfo.cs
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\Card-OOP-Assignment-YHK.csproj.CoreCompileInputs.cache
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\Card-OOP-Assignment-YHK.dll
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\refint\Card-OOP-Assignment-YHK.dll
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\Card-OOP-Assignment-YHK.pdb
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\Card-OOP-Assignment-YHK.genruntimeconfig.cache
+C:\Users\Yamaan\source\repos\Card-OOP-Assignment-YHK\Card-OOP-Assignment-YHK\obj\Debug\net6.0\ref\Card-OOP-Assignment-YHK.dll
